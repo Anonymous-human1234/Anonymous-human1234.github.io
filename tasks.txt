@@ -1,0 +1,26 @@
+1. Add a game over condition 
+2. Tell the user they lost when the condition is met
+    // hint google "alert javascript"
+3. Add a start/play button to begin the game
+    // optional
+
+extra html study if you want
+    learn about "<a href> tag"
+    learn about "display: flex" 
+
+
+3rd April Homework - Day 3
+    Try to figure out how to make a button that moves to new random location every time you click it
+        HINT: Google javascript Math.random() and         s          
+    Update fonts
+
+10th April Homework - Day 10
+    Try to figure out how to make a high score
+        HINT: Google localStorage
+    Figure out how to have multiple pages
+        HINT: Google a href
+
+
+24th April Homework
+Get Github set up
+https://docs.github.com/en/authentication/connecting-to-github-with-ssh/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent
