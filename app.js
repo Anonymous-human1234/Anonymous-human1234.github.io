@@ -7,6 +7,7 @@ var grey_container = document.getElementById("grey_thing")
 var High_Score = document.getElementById("high_score")
 var dist = 0
 var score = 0
+// example
 var ball_speed = 1
 var game_running = true
 var dev_tools1 = false
